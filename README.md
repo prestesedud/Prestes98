@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é {David}!
+## 😄 Olá, meu nome é {David}!
 
 ---
 
